@@ -1,0 +1,19 @@
+.team h1 {
+	text-align: center;
+}
+.team .profile-pic {
+	width: 200px;
+	height: 200px;
+}
+
+.team .body {
+	min-height: 100vh;
+	position: relative;
+	padding-bottom: 250px;
+}
+
+.team #footer {
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+}

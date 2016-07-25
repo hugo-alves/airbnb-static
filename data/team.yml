@@ -1,0 +1,18 @@
+hugo:
+  image: hugo.jpg
+  city: Lisboa
+  title: Hugo's varanda
+  description: The best place to have a drink in Campo de Ourique
+  picture: card-brussels.jpeg
+seb:
+  image: seb.jpg
+  city: Paris
+  title: Seb's mansion
+  description: The best place to party in Paris
+  picture: card-paris.jpeg
+romain:
+  image: romain.jpg
+  city: London
+  title: Romain's little apartment
+  description: Cozy place to stay in London
+  picture: card-london.jpeg
